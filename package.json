@@ -29,7 +29,7 @@
   "main": "index.js",
   "dependencies": {
     "through": "2.x.x",
-    "esprima": "1.x.x",
+    "esprima": "^2.1.0",
     "estraverse": "1.x.x",
     "escodegen": "0.0.x"
   },
