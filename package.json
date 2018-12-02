@@ -28,10 +28,10 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "through": "2.x.x",
+    "through": "^2.3.8",
     "esprima": "^2.1.0",
-    "estraverse": "1.x.x",
-    "escodegen": "0.0.x"
+    "estraverse": "^4.2.0",
+    "escodegen": "^1.8.1"
   },
   "devDependencies": {
     "mocha": "1.x.x",
